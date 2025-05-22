@@ -1,0 +1,13 @@
+streamlit
+moviepy
+requests
+speechbrain
+torchaudio
+soundfile
+pydub
+gtts
+numpy
+Pillow
+tensorflow
+librosa
+joblib
